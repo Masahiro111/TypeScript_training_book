@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript_book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Masahiro111 <33553834+Masahiro111@users.noreply.github.com> (https://github.com/Masahiro111)",
+  "license": "ISC"
+}
